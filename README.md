@@ -127,7 +127,7 @@ pip install -r requirements.txt
 
 Here is a sample output from the Streamlit image-based emotion detection:
 
-![Static App Screenshot](Test_Result/Facial Recognition Static App SS.png)
+![Static App Screenshot](Test_Result/Facial_Recognition_Static_App.png)
 
 
 ### **🎥 Real-Time Monitoring Demo**
